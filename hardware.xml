@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hardware>
+    <computer>
+        <brand>Apple</brand>
+        <model>MacBook Pro</model>
+        <price>2499.99</price>
+        <is_laptop>true</is_laptop>
+    </computer>
+    <processor>
+        <brand>Intel</brand>
+        <model>Core i7</model>
+        <speed>2.8 GHz</speed>
+        <cores>4</cores>
+    </processor>
+    <memory>
+        <type>DDR4</type>
+        <capacity>32 GB</capacity>
+        <speed>2666 MHz</speed>
+        <is_redundant>false</is_redundant>
+    </memory>
+</hardware>
