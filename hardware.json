@@ -1,0 +1,20 @@
+{
+    "PC": {
+        "brand": "Apple",
+        "model": "MacBook Pro",
+        "price": 2499.99,
+        "is_laptop": true
+    },
+    "processor": {
+        "brand": "Intel",
+        "model": "Core i9",
+        "speed": "3.3 GHz",
+        "cores": 8
+    },
+    "RAM MEMORY": {
+        "type": "DDR4",
+        "capacity": "16 GB",
+        "speed": "2666 MHz",
+        "is_redundant": false
+    }
+}
